@@ -53,6 +53,7 @@ git clone https://github.com/Salfianap20/BatteryNotifier.git
 3. Choose your preferred notification sound
 4. Minimize to tray if needed
 5. The alarm will play automatically when the battery reaches the configured percentage
+6. If you want to try the application, you can download the file "BatteryAlarmSetup.exe".
 
 ---
 
